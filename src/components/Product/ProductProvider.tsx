@@ -40,18 +40,6 @@ const ProductProvider: React.FC<Props> = ({ children }) => {
       desc: "Thinking for renovation of room decoration then go for this stylish yet beautiful planter pot. @home brings a lot of varieties in planter pots according to needs and requirement of room decor. This unique and classic style of Planter pot makes it different from other planter pots and it creates a positive ambience in room. A perfect pick for home decor or office decor.",
       link: "https://www.pepperfry.com/product/black-and-gold-metal-water-tap-planter-1931587.html",
     },
-    // {
-    //   id: 5,
-    //   name: "Center Table with Storage (Luna)",
-    //   price: "8700",
-    //   img: "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSd9JXwYTtDJHhiEdXC0ZdMqZSvRlY_SUvkh9kvfzMey8JZLLKoHFHcGS8abloz6hr1AMymrGvpEpkK6YMuCfAG8GUrv1_cnqKl_Vtkh7s",
-    //   desc: "This beautiful glass top centre table is a statement piece for any living room. The glass top adds an elegant touch to the centre table and lets it blend easily with your other home furniture. It is supported by a wooden frame, making it a durable and attractive option for spacious living areas. The centre table not just looks good, but provides a convenient place for photo frames, souvenirs or show pieces. And for other knick-knacks like the TV remote, magazines or newspapers, or just coasters, there is a second glass shelf below the table top. The smoothened glass top is 8 mm thick, which gives it a longer life span, and the lower shelf has a thickness of 5 mm.",
-    //   link: "https://www.nilkamalfurniture.com/products/nilkamal-luna-centre-table?variant=22088046215257&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AR57-fAiqJwTv-NfYozL4IEmuV0T0DoNU48O_p3eYodcjsOdcp-W6QOClLQ",
-    // },
-    // {
-    //   id: 6,
-    //   name: ''
-    // }
   ]);
 
   const addProduct = (product: Product) => {
